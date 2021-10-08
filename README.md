@@ -18,7 +18,7 @@ Future Work:<br>
 Login / Authentication functionality
 
 First Look:<br>
-<img src = "sample.jpg"/>
+<img src = "Sample.jpg"/>
 
 Firebase Note structure:<br>
 <img src = "Firebase_Note_Object_snapshot.jpg"/>
