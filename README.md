@@ -4,7 +4,7 @@ npm install - To install dependencies
 npm start - To run it
 <br>
 
-Libraries Used:<br>
+Libraries Used:
 - @material-ui/core<br>
 - @material-ui/icons<br>
 - react-quill<br>
