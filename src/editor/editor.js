@@ -5,6 +5,7 @@ import styles from './styles';
 import ReactQuill from 'react-quill';
 import debounce from '../helpers';
 
+
 class EditorComponent extends React.Component {
     constructor() {
         super();
