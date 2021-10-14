@@ -79,4 +79,3 @@ like here for example this.state.notes which is a list becomes broken down into 
 so [note1,note2, ...this.state.notes] is basically a single list and not a nested list
 
 
-
